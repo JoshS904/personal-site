@@ -1,0 +1,21 @@
+header  {
+    padding: 60px;
+    text-align: center;
+    background:cyan;
+    color: black;
+    font-size: 30px;
+  }
+  main {
+    width: 650px;
+background:cyan;
+margin: 1rem auto;
+padding: 60px;
+text-align: left
+
+  }
+  footer {
+  width: 650px;
+background:cyan;
+padding: 5px;
+text-align: left
+}
